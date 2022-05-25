@@ -27,7 +27,7 @@
     "amphp/byte-stream": "^2.0-beta",
     "amphp/socket": "^2.0-beta",
     "google/protobuf": "^3.19.3",
-    "prooph/event-store": "dev-master",
+    "event-store": "dev-php_81_amp_3",
     "psr/log": "^2.0"
   },
   "require-dev": {
